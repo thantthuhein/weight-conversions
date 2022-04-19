@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            " ThantDev\\WeightConversions\\": "src"
+            "ThantDev\\WeightConversions\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            " ThantDev\\WeightConversions\\Tests\\": "tests"
+            "ThantDev\\WeightConversions\\Tests\\": "tests"
         }
     },
     "scripts": {
